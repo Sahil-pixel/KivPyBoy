@@ -29,6 +29,7 @@ The project demonstrates how to run PyBoy on Android using a custom python-for-a
 ## Technical Highlights
 
 ### Custom PyBoy Android Port
+https://github.com/baekalfen/pyboy
 
 PyBoy normally depends on SDL-based components that are not ideal for Android packaging.
 
